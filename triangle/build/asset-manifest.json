@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/raineconor.github.io/triangle/build/static/css/main.a1665c28.css",
+    "main.js": "/raineconor.github.io/triangle/build/static/js/main.8647947a.js",
+    "static/js/787.c1112931.chunk.js": "/raineconor.github.io/triangle/build/static/js/787.c1112931.chunk.js",
+    "static/media/DashboardLogo.svg": "/raineconor.github.io/triangle/build/static/media/DashboardLogo.4cd3ab3a58d277441d889adf01a438ba.svg",
+    "index.html": "/raineconor.github.io/triangle/build/index.html",
+    "static/media/OptionsBarLogo.svg": "/raineconor.github.io/triangle/build/static/media/OptionsBarLogo.2a5f46382c89f873fb2bb8e7bba181e5.svg",
+    "static/media/ResizeHandle.svg": "/raineconor.github.io/triangle/build/static/media/ResizeHandle.303ef4920d3d5707f30e.svg",
+    "main.a1665c28.css.map": "/raineconor.github.io/triangle/build/static/css/main.a1665c28.css.map",
+    "main.8647947a.js.map": "/raineconor.github.io/triangle/build/static/js/main.8647947a.js.map",
+    "787.c1112931.chunk.js.map": "/raineconor.github.io/triangle/build/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1665c28.css",
+    "static/js/main.8647947a.js"
+  ]
+}
